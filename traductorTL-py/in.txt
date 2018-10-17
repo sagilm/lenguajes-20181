@@ -1,0 +1,7 @@
+retorno (123)
+retorno("dai")
+retortno(val)
+log(w)
+log(44)
+log ("223")
+2+3==5

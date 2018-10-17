@@ -1,0 +1,7 @@
+﻿importar math
+string=""
+log(string)
+a =false
+log(a||true)
+c=25
+log(sqrt(c))
